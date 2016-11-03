@@ -1,4 +1,4 @@
-# seed-tooltip [![npm version](https://badge.fury.io/js/seed-tooltip.svg)](https://badge.fury.io/js/seed-tooltip)
+# seed-tooltip [![Build Status](https://travis-ci.org/helpscout/seed-tooltip.svg?branch=master)](https://travis-ci.org/helpscout/seed-tooltip) [![npm version](https://badge.fury.io/js/seed-tooltip.svg)](https://badge.fury.io/js/seed-tooltip) [![dependencies Status](https://david-dm.org/helpscout/seed-tooltip/status.svg)](https://david-dm.org/helpscout/seed-tooltip)
 
 Tooltip component pack for [Seed](https://github.com/helpscout/seed)!
 
