@@ -1,6 +1,6 @@
 # seed-tooltip [![npm version](https://badge.fury.io/js/seed-tooltip.svg)](https://badge.fury.io/js/seed-tooltip)
 
-tooltip component pack for [Seed](https://github.com/helpscout/seed)!
+Tooltip component pack for [Seed](https://github.com/helpscout/seed)!
 
 ## Install
 ```
@@ -40,5 +40,22 @@ Once that is setup, simply `@import` *seed-tooltip* as needed in your `.scss` fi
 The following variables can be found in `_config.scss`
 
 ```scss
-seed-tooltip config options
+// Namespaces
+$seed-tooltip-namespace: "tooltip" !default;
+$seed-tooltip-arrow-namespace: "tooltip-arrow" !default;
+$seed-tooltip-inner-namespace: "tooltip-inner" !default;
+
+// Configs
+$seed-tooltip-font-size: 12px !default;
+$seed-tooltip-margin-offset: -3px !default;
+$seed-tooltip-line-height: 1.5 !default;
+$seed-tooltip-z-index: 1070 !default;
+// Config: Inner
+$seed-tooltip-background-color: #000 !default;
+$seed-tooltip-border-radius: 4px !default;
+$seed-tooltip-padding: 3px 8px !default;
+$seed-tooltip-max-width: 200px !default;
+$seed-tooltip-text-color: #fff !default;
+// Config: Arrow
+$seed-tooltip-arrow-size: 5px !default;
 ```
