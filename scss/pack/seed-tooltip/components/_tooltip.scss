@@ -32,19 +32,19 @@
     // Modifiers: Directions
     &.top {
       margin-top: $seed-tooltip-margin-offset;
-      padding: $seed-tooltip-padding-offset 0;
+      padding: $seed-tooltip-arrow-size 0;
     }
     &.right {
       margin-right: $seed-tooltip-margin-offset;
-      padding: 0 $seed-tooltip-padding-offset;
+      padding: 0 $seed-tooltip-arrow-size;
     }
     &.bottom {
       margin-bottom: $seed-tooltip-margin-offset;
-      padding: $seed-tooltip-padding-offset 0;
+      padding: $seed-tooltip-arrow-size 0;
     }
     &.left {
       margin-left: $seed-tooltip-margin-offset;
-      padding: 0 $seed-tooltip-padding-offset;
+      padding: 0 $seed-tooltip-arrow-size;
     }
   }
 }
